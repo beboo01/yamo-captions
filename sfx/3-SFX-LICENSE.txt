@@ -1,0 +1,1 @@
+CC0-1.0 sound effects from https://github.com/Reodelbasalan/adbertiser-sfx (CC0, public domain), converted to Ogg Vorbis and bundled.
